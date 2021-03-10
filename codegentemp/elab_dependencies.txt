@@ -1,0 +1,2 @@
+C:\Users\Bruce\Documents\PSoC Creator\Lab4\Design01.cydsn\TopDesign\TopDesign.cysch
+C:\Users\Bruce\Documents\PSoC Creator\Lab4\Design01.cydsn\Design01.cydwr
