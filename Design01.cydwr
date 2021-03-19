@@ -7,6 +7,9 @@
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
       <Data key="4cca878b-77b5-471d-8aeb-ad6925202455" value="GREENLED" />
+      <Data key="777da694-0b38-47e2-9f69-6e4f4967861e/65f3af6c-759b-4ccb-8c66-5c95ba1f5f4f" value="UART_1_tx" />
+      <Data key="777da694-0b38-47e2-9f69-6e4f4967861e/b7e8018e-1ef7-49c0-b5a5-61641a03e31c" value="UART_1_rx" />
+      <Data key="987367ed-f1a3-46e6-b443-6d6892e4bc46" value="Pin_1" />
     </Group>
   </Group>
   <Group key="M0S8Clock">
@@ -597,6 +600,21 @@
     <Group key="4cca878b-77b5-471d-8aeb-ad6925202455">
       <Group key="0">
         <Data key="Port Format" value="1,1" />
+      </Group>
+    </Group>
+    <Group key="777da694-0b38-47e2-9f69-6e4f4967861e/65f3af6c-759b-4ccb-8c66-5c95ba1f5f4f">
+      <Group key="0">
+        <Data key="Port Format" value="5,1" />
+      </Group>
+    </Group>
+    <Group key="777da694-0b38-47e2-9f69-6e4f4967861e/b7e8018e-1ef7-49c0-b5a5-61641a03e31c">
+      <Group key="0">
+        <Data key="Port Format" value="5,0" />
+      </Group>
+    </Group>
+    <Group key="987367ed-f1a3-46e6-b443-6d6892e4bc46">
+      <Group key="0">
+        <Data key="Port Format" value="0,4" />
       </Group>
     </Group>
     <Group key="UnAssigned Pins" />
